@@ -14,3 +14,5 @@ FLAGS:
 OPTIONS:
     -o, --output <output_name> 
 ```
+
+![alt text](https://github.com/Wingelote/mandelbrot-set/assets/mandelbrot-set.png)
